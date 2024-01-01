@@ -32,7 +32,6 @@
 ![image](https://github.com/Vedha0406/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150884870/2397cc26-2dfe-40b1-bec5-d4f9294cdf78)
 
 
-## Output:
 
 ### Name: VEDHASHREE G
 ### Register Number: 212223240171
